@@ -1,0 +1,113 @@
+/*
+=============== 
+Variables
+===============
+*/
+:root {
+	--clr-white: #fff;
+	--clr-primary: rgb(248, 104, 88);
+	--ff-primary: 'Poppins', sans-serif;
+	--ff-secondary: 'Roboto', sans-serif;
+	--spacing: 0.25rem;
+	--radius: 0.25rem;
+	--light-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+	--dark-shadow: 0 5px 15px rgba(0, 0, 0, 0.5);
+	--clr-background: #E5E5E5;
+}
+
+/*
+=============== 
+Global Styles
+===============
+*/
+
+
+/*  
+===============
+global classes
+===============
+*/
+
+/*  
+===============
+Navbar
+===============
+*/
+
+/*  
+===============
+End of Navbar
+===============
+*/
+
+/*  
+===============
+Banner Section
+===============
+*/
+
+/*  
+================
+Button Animation
+================
+*/
+
+/*  
+=======================
+End of Button Animation
+=======================
+*/
+
+/*  
+======================
+End of Banner Section
+======================
+*/
+
+/*  
+=============
+Company Logo
+=============
+*/
+
+/*  
+====================
+End of Company Logo
+====================
+*/
+
+/*  
+====================
+Popular Collection
+====================
+*/
+
+/*  
+=========================
+End of Popular Collection
+=========================
+*/
+
+/*  
+=============
+Photo Gallery
+=============
+*/
+
+/*  
+====================
+End of Photo Gallery
+====================
+*/
+
+/*  
+==========
+Footer
+==========
+*/
+
+/*  
+==============
+End of Footer
+==============
+*/
