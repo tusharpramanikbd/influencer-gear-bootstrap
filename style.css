@@ -149,7 +149,14 @@ End of Photo Gallery
 Footer
 ==========
 */
-
+.footer{
+	background: #0A0826;
+}
+.social-icons a{
+	background: rgb(32, 32, 32);
+	width: 2rem;
+	height: 2rem;
+}
 /*  
 ==============
 End of Footer
